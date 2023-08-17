@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 def longreadpolyATGCtrimmer(infile, polyATGCstretch_type=None):
-    """sumary_line
+    """summary_line
     a long read trimmer, given the long read fasta base
     quality check, it will check for the longest stretch of 
     polyATGCstretch_type as selected and will remove that 
