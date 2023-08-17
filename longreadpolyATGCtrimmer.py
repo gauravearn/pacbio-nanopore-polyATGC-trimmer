@@ -82,7 +82,7 @@ def longreadpolyATGCtrimmer(infile, polyATGCstretch_type=None):
         long_read_dataframe["trimmed_sequences_new"] = pd.DataFrame([sequences[i][:counts[i][0]]+ \
                                                 sequences[i][counts[i][1]:] for i in range(len(counts))])
         return long_read_dataframe
-    if polyATGCstretch_type == "G":
+    if polyATGCstretch_type == "C":
         read_long_reads = list(filter(None,[x.strip() for x in open(infile).readlines()]))
         long_read_conversion = {}
         for i in read_long_reads:
