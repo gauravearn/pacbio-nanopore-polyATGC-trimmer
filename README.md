@@ -10,7 +10,7 @@ longreadpolyATGCtrimmer("/Users/gauravsablok/Desktop/CodeCheck/fasta_sample_data
 2	>3	GCAGCGTACGTGGTTGGATCAATTAGTGGGGCACATTTGAATCCAG...	[27, 30]	GCAGCGTACGTGGTTGGATCAATTAGTGCACATTTGAATCCAGCTT...
 3	>4	CGAAAATTACTTCGGTACAATGCTTGTATACATGGGCAAAGCACAC...	[33, 36]	CGAAAATTACTTCGGTACAATGCTTGTATACATCAAAGCACACGGT...
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
